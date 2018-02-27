@@ -199,7 +199,7 @@ public class MySingleLinkedList<E> implements MyList<E> {
      *
      * @param <E>
      */
-    private static class Node<E> {
+    public static class Node<E> {
         //链接数据域，保存数据元素
         public E       data;
         //链表地址域，引用后继节点
