@@ -8,7 +8,7 @@ package com.sanshao90.mycollection;
  */
 public class MyHeadSingleLinkedList<E> extends MySingleLinkedList<E> implements MyList<E> {
 
-    protected Node<E> head;// 单链表的头结点
+//    protected Node<E> head;// 单链表的头结点
     protected Node<E> rear;// 单链表的尾结点
     protected int length; // 单链表的长度
 
