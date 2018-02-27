@@ -51,7 +51,7 @@ public class MyHeadSingleLinkedList<E> extends MySingleLinkedList<E> implements 
             return false;
         }
         if (index >= this.length) {
-            this.add(element);
+            return this.add(element);
         } else {
             Node<E> p = this.head;
             int i = 0;
@@ -65,7 +65,6 @@ public class MyHeadSingleLinkedList<E> extends MySingleLinkedList<E> implements 
             this.length++;
             return true;
         }
-        return false;
     }
 
     /**
