@@ -1,6 +1,7 @@
-package com.sanshao90.mycollection;
+package com.sanshao90.mycollection.list;
 
-import com.alibaba.fastjson.JSON;
+import com.sanshao90.mycollection.list.MyList;
+import com.sanshao90.mycollection.list.MySingleLinkedList;
 import org.junit.Test;
 
 public class MySingleLinkedListTest {

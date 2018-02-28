@@ -1,4 +1,4 @@
-package com.sanshao90.mycollection;
+package com.sanshao90.mycollection.list;
 
 import com.google.common.base.MoreObjects;
 

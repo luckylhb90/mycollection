@@ -1,5 +1,7 @@
-package com.sanshao90.mycollection;
+package com.sanshao90.mycollection.list;
 
+import com.sanshao90.mycollection.list.MyHeadSingleLinkedList;
+import com.sanshao90.mycollection.list.MyList;
 import org.junit.Test;
 
 /**

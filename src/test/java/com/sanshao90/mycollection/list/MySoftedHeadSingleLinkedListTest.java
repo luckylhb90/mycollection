@@ -1,5 +1,6 @@
-package com.sanshao90.mycollection;
+package com.sanshao90.mycollection.list;
 
+import com.sanshao90.mycollection.list.MySoftedHeadSingleLinkedList;
 import org.junit.Test;
 
 /**

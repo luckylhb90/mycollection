@@ -1,5 +1,7 @@
-package com.sanshao90.mycollection;
+package com.sanshao90.mycollection.list;
 
+import com.sanshao90.mycollection.list.MyCircularHeadSingleLinkedList;
+import com.sanshao90.mycollection.list.MyList;
 import org.junit.Test;
 
 /**
