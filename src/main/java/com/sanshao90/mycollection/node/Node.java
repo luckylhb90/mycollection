@@ -1,4 +1,4 @@
-package com.sanshao90.mycollection.list;
+package com.sanshao90.mycollection.node;
 
 /**
  * 链表节点类

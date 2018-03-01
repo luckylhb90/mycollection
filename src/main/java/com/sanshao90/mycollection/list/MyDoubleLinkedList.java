@@ -1,5 +1,7 @@
 package com.sanshao90.mycollection.list;
 
+import com.sanshao90.mycollection.node.DoubleNode;
+
 /**
  * @Project : mycollection
  * @Description : 双向链表类

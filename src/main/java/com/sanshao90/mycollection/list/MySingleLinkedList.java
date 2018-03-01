@@ -1,5 +1,7 @@
 package com.sanshao90.mycollection.list;
 
+import com.sanshao90.mycollection.node.Node;
+
 /**
  * @Project : mycollection
  * @Description :  单链表类，实现线性表接口
